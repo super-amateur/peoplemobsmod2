@@ -1,5 +1,5 @@
-# peoplemobsmod2
-Minecraft Forge 1.4 Mod
+# People Mobs Mod2
+for Minecraft Forge 1.4.4
 
 Mobの見た目を女の子にするMODです。
 それ以上でもそれ以下でもありません。
