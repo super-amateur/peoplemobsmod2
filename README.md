@@ -4,8 +4,10 @@ for Minecraft Forge 1.4.4
 ## ↓↓ download ↓↓
 Lastest [People Mobs Mod2 1.0.2](https://github.com/super-amateur/peoplemobsmod2/raw/master/peoplemobsmod2-0.1.2.jar)
 
+## About
 Mobの見た目を女の子にするMODです。
-それ以上でもそれ以下でもありません。
+既存Mobの見た目を変えるMODです。
+このMODが完成したら、**かわいい女の子に囲まれた**生活ができるようになります。
 
 以前作った**Personification Mobs Mod**([フォーラムのページが消えたのでコピーサイトのリンクです ;_;](http://www.9minecraft.net/people-mobs-mod/))の後継版です。
 
