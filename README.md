@@ -2,7 +2,7 @@
 for Minecraft Forge 1.4.4
 
 ## ↓↓ download ↓↓
-Lastest [People Mobs Mod2 1.0.2](https://github.com/super-amateur/peoplemobsmod2/raw/master/peoplemobsmod2-0.1.2.jar)
+**Lastest** [People Mobs Mod2 1.0.3](https://github.com/super-amateur/peoplemobsmod2/raw/master/peoplemobsmod2-0.1.3.jar)
 
 ## About
 Mobの見た目を女の子にするMODです。
@@ -15,7 +15,7 @@ Mobの見た目を女の子にするMODです。
 以前作った**Personification Mobs Mod**([フォーラムのページが消えたのでコピーサイトのリンクです ;_;](http://www.9minecraft.net/people-mobs-mod/))の後継版です。
 
 # Update Log
-## 1.0.3(次回予告)
+## 1.0.3
 対応モブ
 - コウモリ
 
@@ -35,8 +35,8 @@ Mobの見た目を女の子にするMODです。
 - エンダーマン
 - ニワトリ
 
-既知の不具合
-エンダーマンは作成途中です
-- ブロックを運んでるとき、ブロックが手に追従しません
-- 叫んでるモーションがついていません
-- (浮いているのは仕様です)
+~~既知の不具合~~
+~~エンダーマンは作成途中です~~
+- ~~ブロックを運んでるとき、ブロックが手に追従しません~~
+- ~~叫んでるモーションがついていません~~
+- ~~(浮いているのは仕様です)~~
