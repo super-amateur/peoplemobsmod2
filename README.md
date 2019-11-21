@@ -1,5 +1,5 @@
 # People Mobs Mod2
-for Minecraft Forge 1.4.4
+for Minecraft 1.14.4 (Forge 28.1)
 
 ## ↓↓ download ↓↓
 **Lastest** [People Mobs Mod2 1.0.3](https://github.com/super-amateur/peoplemobsmod2/raw/master/peoplemobsmod2-0.1.3.jar)
